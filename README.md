@@ -1,1 +1,1 @@
-# BCG-Gamma-DS-Advanced-Analytics
+# BCG-Gamma-DS-&-Advanced-Analytics
