@@ -11,11 +11,11 @@ The Associate Director (AD) held an initial team meeting to discuss various hypo
 Your AD wants an email with your thoughts on how the team should go about testing this hypothesis.The client plans to use the predictive model on the 1st working day of every month to indicate to which customers the 20% discount should be offered.
 
 
-This Virual Internship checks your understanding on these 4 grounds:
-Business Understanding & Hypothesis Framing
-Exploratory Data Analysis & Data Visualization
-Feature Engineering & Modelling
-Findings & Recommendations
+This Virual Internship checks your understanding and knowledge through 4 different tasks that deals with:
+Task 1 - Business Understanding & Hypothesis Framing
+Task 2 - Exploratory Data Analysis & Data Visualization
+Task 3 - Feature Engineering & Modelling
+Task 4 - Findings & Recommendations
 
 
 
